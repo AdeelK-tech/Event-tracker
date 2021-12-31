@@ -1,0 +1,9 @@
+.row-content{
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+.col-form-label{
+    font-size: 18px;
+    font-weight: 450;
+}
